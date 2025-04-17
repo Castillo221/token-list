@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "7vwnJVHceSqA1dhRcsDanQ3S83jBvgANCHCNxLTRAKfh",
+  "symbol": "RTV",
+  "name": "Retrova Token",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/Castillo221/token-list/main/assets/mainnet/7vwnJVHceSqA1dhRcsDanQ3S83jBvgANCHCNxLTRAKfh/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "description": "Retrova Token es una criptomoneda de utilidad para marca personal, moda y comunidad."
+  }
+}

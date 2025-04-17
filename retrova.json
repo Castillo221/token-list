@@ -1,0 +1,16 @@
+{
+    "name": "Retrova Token",
+    "symbol": "RTV",
+    "address": "8HDes7dzQLbQRBokKphcz4HNSzyfCchXiZAmURJT3vf1",
+    "decimals": 8,
+    "chainId": 101,
+    "logoURI": "https://ipfs.io/ipfs/62451fac-6506-4eae-a263-0de426fd8a23",
+    "tags": [
+        "utility-token"
+    ],
+    "extensions": {
+        "website": "",
+        "twitter": "",
+        "description": "Retrova Token (RTV) is a fixed-supply utility token on the Solana blockchain."
+    }
+}
